@@ -1,0 +1,60 @@
+{
+  "ProductsList": [
+    {
+      "id": "1",
+      "name": "Toothpaste",
+      "mrp": "40",
+      "weight": "200g",
+      "mfg": "27/12/2014",
+      "exp": "2/1/2016"
+    },
+    {
+      "id": "2",
+      "name": "KitKat",
+      "mrp": "10",
+      "weight": "10g",
+      "mfg": "4/3/2015",
+      "exp": "5/6/2016"
+    },
+    {
+      "id": "3",
+      "name": "Milk",
+      "mrp": "30",
+      "weight": "1ltr",
+      "mfg": "18/4/2016",
+      "exp": "20/4/2016"
+    },
+    {
+      "id": "4",
+      "name": "Diary milk",
+      "mrp": "100",
+      "weight": "50g",
+      "mfg": "6/5/2016",
+      "exp": "2/2/2017"
+    },
+    {
+      "id": "5",
+      "name": "Shampoo",
+      "mrp": "10",
+      "weight": "5",
+      "mfg": "5/8/2015",
+      "exp": "22/6/2016"
+    },
+    {
+      "id": "6",
+      "name": "Mysore sandal soap",
+      "mrp": "70",
+      "weight": "100g",
+      "mfg": "3/5/2016",
+      "exp": "2/3/2017"
+    },
+    {
+      "id": "7",
+      "name": "Maaza",
+      "mrp": "35",
+      "weight": "1ltr",
+      "mfg": "3/5/2016",
+      "exp": "21/1/2017"
+    }
+  ]
+}
